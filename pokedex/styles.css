@@ -1,0 +1,23 @@
+#wrapper{
+    width: 600px;
+    display: inline-block;
+}
+#stats{
+    display: inline-block;
+    width: 350px;
+    min-height: 500px;
+    border: 3px solid red;
+    margin: 40px;
+    vertical-align: top;
+}
+#stats h1{
+    text-align: center;
+}
+#stats img{
+    display: block;
+    width: 137px;
+    margin: 0 auto;
+}
+#stats h3, #stats p{
+    margin-left:20px;
+}
